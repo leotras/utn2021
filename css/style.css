@@ -1,0 +1,10 @@
+*{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+body{background-color: hsl(0, 0%, 46%);}
+#contenedor{background-color: #85a885;
+width: 90%;
+margin-right: auto;
+padding-top: 15px;
+padding-left: 15px;
+padding-right: 10px;
+padding-bottom: 25px;
+}
